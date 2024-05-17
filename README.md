@@ -1,5 +1,13 @@
 # How to Run in Local System
+## Default User Logins
 
+1. **First User:**
+   - Username: Biswanath Mukharjee
+   - Password: 1
+
+2. **Second User:**
+   - Username: Piyush Kumar Rai
+   - Password: 1
 Follow these steps to set up and run the project on your local system.
 
 ## Running the Frontend
